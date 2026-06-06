@@ -1,10 +1,10 @@
 # Web Development Project 1 - AI & Cybersecurity Learning Hub
 
-Submitted by: **Moses**
+Submitted by: **Olabode Jimoh**
 
 This web app is a React-based community board that showcases valuable learning resources for students interested in Artificial Intelligence and Cybersecurity. The application features 10 themed resource cards, each displaying an icon, title, description, and external "Learn More" link.
 
-Time spent: **2** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -49,6 +49,6 @@ One challenge was learning how to create reusable React components and pass data
 
 ## License
 
-Copyright 2026 Moses
+Copyright 2026 Olabode Jimoh
 
 Licensed under the Apache License, Version 2.0.
