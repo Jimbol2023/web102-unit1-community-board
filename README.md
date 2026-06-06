@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 * [x] All cards have buttons or links in addition to text
 * [x] The site is responsive for both desktop and mobile formats
 * [ ] Web app is shown in a mobile format
-* [ ] Video walkthrough
+* [x] Video walkthrough
 
 ## Additional Features
 
@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="YOUR_GIF_LINK_HERE" title="Video Walkthrough" width="" alt="Video Walkthrough" />
+https://www.loom.com/share/517b740fa24a4c66bf5c59d8d360eff1
 
 ## Notes
 
