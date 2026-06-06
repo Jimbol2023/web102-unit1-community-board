@@ -1,8 +1,8 @@
 # WEB102 Unit 1 Project - Community Board
 
-Submitted by: Moses
+Submitted by: Olabode Jimoh
 
-Time spent: 2 hours
+Time spent: 4 hours
 
 ## Project
 
